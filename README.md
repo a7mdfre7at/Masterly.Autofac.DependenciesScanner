@@ -5,6 +5,8 @@ Assembly scanning and decoration extensions for Autofac.
 
 [![Nuget](https://img.shields.io/nuget/v/Masterly.Autofac.DependenciesScanner?style=flat-square)](https://www.nuget.org/packages/Masterly.Autofac.DependenciesScanner) ![Nuget](https://img.shields.io/nuget/dt/Masterly.Autofac.DependenciesScanner?style=flat-square) ![GitHub last commit](https://img.shields.io/github/last-commit/a7mdfre7at/Masterly.Autofac.DependenciesScanner?style=flat-square) ![GitHub](https://img.shields.io/github/license/a7mdfre7at/Masterly.Autofac.DependenciesScanner?style=flat-square)
 
+> Masterly.Autofac.DependenciesScanner is heavily inspired by my mentor "M. Dameer"
+
 ## Features
 
 - Scan the given assemblies and exteract all services.
