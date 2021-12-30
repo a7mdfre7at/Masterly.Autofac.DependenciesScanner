@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
-using Masterly.Autofac.Interfaces;
+using Masterly.DependencyInjection.Abstraction;
 
 namespace Masterly.Autofac.DependenciesScanner
 {

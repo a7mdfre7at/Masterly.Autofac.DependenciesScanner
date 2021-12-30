@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq;
 using FluentAssertions;
-using Masterly.Autofac.Interfaces;
+using Masterly.DependencyInjection.Abstraction;
 using Xunit;
 
 namespace Masterly.Autofac.DependenciesScanner.UnitTests.Extensions

@@ -5,7 +5,7 @@ using System.Reflection;
 using Autofac;
 using Autofac.Builder;
 using Autofac.Core;
-using Masterly.Autofac.Interfaces;
+using Masterly.DependencyInjection.Abstraction;
 
 namespace Masterly.Autofac.DependenciesScanner
 {

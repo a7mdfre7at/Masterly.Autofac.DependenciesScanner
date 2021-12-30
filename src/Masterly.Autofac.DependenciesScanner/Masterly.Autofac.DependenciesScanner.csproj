@@ -18,7 +18,7 @@
   <ItemGroup>
     <PackageReference Include="Autofac" Version="6.3.0" />
     <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="7.2.0" />
-    <PackageReference Include="Masterly.Autofac.Interfaces" Version="1.0.0" />
+    <PackageReference Include="Masterly.DependencyInjection.Abstraction" Version="1.0.1" />
     <PackageReference Include="Microsoft.Extensions.Hosting.Abstractions" Version="6.0.0" />
   </ItemGroup>
 

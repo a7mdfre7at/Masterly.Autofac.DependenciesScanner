@@ -1,4 +1,4 @@
-﻿using Masterly.Autofac.Interfaces;
+﻿using Masterly.DependencyInjection.Abstraction;
 
 namespace Masterly.Autofac.DependenciesScanner.UnitTests
 {
